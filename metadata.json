@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Modelia AI Fashion Studio",
+  "description": "A mini AI Studio web app to simulate fashion image generation. Upload an image, add a prompt, and generate a new fashion concept.",
+  "requestFramePermissions": []
+}
